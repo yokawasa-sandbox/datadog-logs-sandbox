@@ -148,3 +148,4 @@ curl localhost:8080/get?param=hello@example.com
 
 - [Collecting Docker logs via Datadog Agent](https://docs.datadoghq.com/containers/docker/log/?tab=containerinstallation)
 - [NGINX Dockerfile LABEL](https://docs.datadoghq.com/ja/containers/docker/log/?tab=nginxdockerfile)
+- [issue: log_processing_rules ignored in ECS task definition](https://github.com/DataDog/datadog-agent/issues/1793)
