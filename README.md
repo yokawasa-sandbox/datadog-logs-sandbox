@@ -142,3 +142,9 @@ Send test request
 ```bash
 curl localhost:8080/get?param=hello@example.com
 ```
+
+
+# REFERENCES
+
+- [Collecting Docker logs via Datadog Agent](https://docs.datadoghq.com/containers/docker/log/?tab=containerinstallation)
+- [NGINX Dockerfile LABEL](https://docs.datadoghq.com/ja/containers/docker/log/?tab=nginxdockerfile)
